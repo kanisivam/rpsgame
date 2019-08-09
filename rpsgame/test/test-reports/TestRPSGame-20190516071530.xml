@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestRPSGame-20190516071530" tests="12" time="35.090">
+	<testcase classname="TestRPSGame" name="test_evaluate_result" time="0.000"/>
+	<testcase classname="TestRPSGame" name="test_exit_game" time="0.000"/>
+	<testcase classname="TestRPSGame" name="test_get_input_pass" time="0.001"/>
+	<testcase classname="TestRPSGame" name="test_start_game_case1" time="5.013"/>
+	<testcase classname="TestRPSGame" name="test_start_game_case2" time="5.016"/>
+	<testcase classname="TestRPSGame" name="test_start_game_case3" time="0.001"/>
+	<testcase classname="TestRPSGame" name="test_start_game_case4" time="10.022"/>
+	<testcase classname="TestRPSGame" name="test_start_game_case5" time="10.019"/>
+	<testcase classname="TestRPSGame" name="test_start_game_fail" time="0.006"/>
+	<testcase classname="TestRPSGame" name="test_start_game_pass" time="5.011"/>
+	<testcase classname="TestRPSGame" name="test_validate_fail" time="0.000"/>
+	<testcase classname="TestRPSGame" name="test_validate_pass" time="0.001"/>
+	<system-out>
+<![CDATA[Quit the Game..
+Hello!! Welcome to Play 'Rock...Scissor...Paper ...!! Game'
+-----------------------------------------------------------
+Winning Rules of the Rock paper scissor game as follows: 
+Rock vs paper->paper wins 
+Rock vs scissor->Rock wins 
+paper vs scissor->scissor wins
+
+Be Ready!! Game will be Started between 'XXX' vs 'Computer' in few seconds 5  4  3  2  1  
+
+Choose Move 
+ 1. Rock 
+ 2. paper 
+ 3. scissor 
+
+Now its Computer turn.......
+"XXX" Move is :  Rock
+"Computer" Move is :  Scissors
+<**** Rock wins ****><**** XXX wins ****>
+
+Thanks for playing
+Hello!! Welcome to Play 'Rock...Scissor...Paper ...!! Game'
+-----------------------------------------------------------
+Winning Rules of the Rock paper scissor game as follows: 
+Rock vs paper->paper wins 
+Rock vs scissor->Rock wins 
+paper vs scissor->scissor wins
+
+Be Ready!! Game will be Started between 'Computer 1' vs 'Computer 2' in few seconds 5  4  3  2  1  
+
+Now its Computer 2 turn.......
+"Computer 1" Move is :  Scissors
+"Computer 2" Move is :  Paper
+<**** Scissors wins ****><**** Computer 1 wins ****>
+
+Thanks for playing
+Hello!! Welcome to Play 'Rock...Scissor...Paper ...!! Game'
+-----------------------------------------------------------
+Winning Rules of the Rock paper scissor game as follows: 
+Rock vs paper->paper wins 
+Rock vs scissor->Rock wins 
+paper vs scissor->scissor wins
+Quit the Game..
+Hello!! Welcome to Play 'Rock...Scissor...Paper ...!! Game'
+-----------------------------------------------------------
+Winning Rules of the Rock paper scissor game as follows: 
+Rock vs paper->paper wins 
+Rock vs scissor->Rock wins 
+paper vs scissor->scissor wins
+
+Be Ready!! Game will be Started between 'xxx' vs 'Computer' in few seconds 5  4  3  2  1  
+
+Choose Move 
+ 1. Rock 
+ 2. paper 
+ 3. scissor 
+
+Now its Computer turn.......
+"xxx" Move is :  Scissors
+"Computer" Move is :  Scissors
+<**** Oh! its a tie between xxx and Computer ****> <**** Scissors tie Scissors ****> 
+
+Be Ready!! Game will be Started between 'mozhi' vs 'Computer' in few seconds 5  4  3  2  1  
+
+Choose Move 
+ 1. Rock 
+ 2. paper 
+ 3. scissor 
+
+Now its Computer turn.......
+"mozhi" Move is :  Paper
+"Computer" Move is :  Paper
+<**** Oh! its a tie between mozhi and Computer ****> <**** Paper tie Paper ****> 
+
+Thanks for playing
+Hello!! Welcome to Play 'Rock...Scissor...Paper ...!! Game'
+-----------------------------------------------------------
+Winning Rules of the Rock paper scissor game as follows: 
+Rock vs paper->paper wins 
+Rock vs scissor->Rock wins 
+paper vs scissor->scissor wins
+
+Be Ready!! Game will be Started between 'Computer 1' vs 'Computer 2' in few seconds 5  4  3  2  1  
+
+Now its Computer 2 turn.......
+"Computer 1" Move is :  Scissors
+"Computer 2" Move is :  Rock
+<**** Rock wins ****><**** Computer 2 wins ****>
+
+Be Ready!! Game will be Started between 'Computer 1' vs 'Computer 2' in few seconds 5  4  3  2  1  
+
+Now its Computer 2 turn.......
+"Computer 1" Move is :  Paper
+"Computer 2" Move is :  Paper
+<**** Oh! its a tie between Computer 1 and Computer 2 ****> <**** Paper tie Paper ****> 
+
+Thanks for playing
+Hello!! Welcome to Play 'Rock...Scissor...Paper ...!! Game'
+-----------------------------------------------------------
+Winning Rules of the Rock paper scissor game as follows: 
+Rock vs paper->paper wins 
+Rock vs scissor->Rock wins 
+paper vs scissor->scissor wins
+Oops! You have selected invalid choice : 3..Try again to pick choices from :['1', '2', 'q']
+
+Be Ready!! Game will be Started between '' vs 'Computer' in few seconds 5  4  3  2  1  
+
+Choose Move 
+ 1. Rock 
+ 2. paper 
+ 3. scissor 
+
+Now its Computer turn.......
+"" Move is :  Rock
+"Computer" Move is :  Rock
+<**** Oh! its a tie between  and Computer ****> <**** Rock tie Rock ****> 
+Oops! You have selected invalid choice : W..Try again to pick choices from :['1', '2', 'q', 'y', 'n']
+Quit the Game..
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
